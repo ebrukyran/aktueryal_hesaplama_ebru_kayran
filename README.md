@@ -2,7 +2,8 @@
 
 ## Proje Geliştiricisi
 
-Ad Soyad: **EBRU KAYRAN**
+Ad Soyad: **[EBRU KAYRAN]**
+Ders: **Aktüerya Bilimleri**
 
 ## Projenin Amacı ve Kapsamı
 
@@ -21,13 +22,29 @@ Eğer kullanıcı bir tablo girmezse, sistem otomatik olarak 1980 CSO (Male) tab
 
 ---
 
-## Kurulum 
+## Kurulum / Çalıştırma
 
 Bu proje herhangi bir özel paket gerektirmez. Sadece aşağıdaki kütüphaneler kullanılmaktadır:
 
 ```bash
 pip install numpy pandas
 ```
+
+Dosya yapısı örneği:
+
+```
+proje_klasoru/
+│
+├── src/
+│   └── aktüeryal_hesaplayici.py
+├── examples/
+│   └── ornek_kullanim.py
+└── README.md
+```
+
+`src` klasörü ana hesaplama kodlarını, `examples` klasörü ise kullanım örneklerini içerir.
+
+---
 
 ## Örnek Kullanım
 

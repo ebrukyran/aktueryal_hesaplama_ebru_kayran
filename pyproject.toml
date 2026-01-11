@@ -1,0 +1,14 @@
+
+[project]
+name = "aktueryal_hesaplayici"
+version = "0.1.0"
+description = "Mortalite tabloları ile hayat sigortası prim hesaplamaları"
+readme = "README.md"
+authors = [{ name="Ebru KAYRAN" }]
+dependencies = [
+  "numpy",
+  "pandas"
+]
+
+[project.urls]
+Homepage = "https://github.com/ebrukyran/aktueryal_hesaplama_ebru_kayran"
