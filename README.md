@@ -135,6 +135,6 @@ Bu dosya içinde yaş, lx, dx, Dx, Cx, Nx ve Mx sütunları yer alır.
 
 ---
 
-## Not
+## Not:
 
 Bu proje, ders kapsamında öğrenilen aktüeryal hesaplama yöntemlerini uygulamak amacıyla hazırlanmıştır. Eğitim amaçlıdır ve ticari kullanım için tasarlanmamıştır.
